@@ -6,9 +6,9 @@ Goal : [openweathermap](https://openweathermap.org/)에서 제공하는 오픈 A
 일기를 작성 , 조회 , 수정 , 삭제 할 수 있는 서버를 구축한다.
 
 ## 날씨 데이터 가져오기
-  -[ ] https://openweathermap.org/ 회원가입 후 API KEY 발급
-  -[ ] API KEY를 통해 가져온 JSON 날씨 데이터 Parsing 
-  -[ ] Scheduled통해 매일 1시 날씨 데이터 미리 저장.
+  - [ ] https://openweathermap.org/ 회원가입 후 API KEY 발급
+  - [ ] API KEY를 통해 가져온 JSON 날씨 데이터 Parsing 
+  - [ ] Scheduled통해 매일 1시 날씨 데이터 미리 저장.
 
 ## 일기
  - [ ] 일기 저장
