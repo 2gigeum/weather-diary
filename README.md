@@ -11,7 +11,7 @@ Goal : [openweathermap](https://openweathermap.org/)에서 제공하는 오픈 A
   - [x] Scheduled통해 매일 1시 날씨 데이터 미리 저장.
 
 ## 일기
- - [x] 일기 저장
+ - [x] 일기 작성
  - [x] 선택한 날짜의 모든 일기 조회
  - [x] 선택한 기간중의 모든 일기 조회
  - [x] 일기 수정
